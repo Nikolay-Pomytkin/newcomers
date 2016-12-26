@@ -1,24 +1,23 @@
 ## Newcomers website
 
 #### To-Do List
-- Create landing page (customizable)
+- Create landing page (customizable from admin dashboard)
 - Work on css and js
-- Start working on admin page
-- 
+- Start working on admin dashboard
 
 Model Planning:
 ##### Student (Devise account)
-Name: String
+- Name: String
 
 ##### Teacher (Devise account)
-Name: String
-Description: Text
-Courses taught: Text
+- Name: String
+- Description: Text
+- Courses taught: Text
 
 ##### Admin (Devise account?)
-Name: Text
+- Name: Text
 
 ##### Customization Data: (Ex. Landing page)
-Video link: Text (Youtube embed)
-Landing page: Text
-Landing page text: Text
+- Video link: Text (Youtube embed)
+- Landing page title: String
+- Landing page text: Text
